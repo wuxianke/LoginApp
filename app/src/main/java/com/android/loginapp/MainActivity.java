@@ -41,4 +41,6 @@ public class MainActivity extends AppCompatActivity {
         super.onDestroy();
         unbinder.unbind();
     }
+
+    public void test(){}
 }
